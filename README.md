@@ -32,7 +32,7 @@ Make sure to install the necessary dependencies to run the notebooks effectively
 We welcome contributions to improve the Semi-Flexible Batch Docking Method.   Feel free to submit issues or pull requests.
 
 ## License
-This project is licensed under the [MIT License]([LICENSE](https://en.wikipedia.org/wiki/MIT_License)). See the LICENSE file for more information.
+This project is licensed under the [MIT License](https://en.wikipedia.org/wiki/MIT_License). See the LICENSE file for more information.
 
 
 ## Contact
